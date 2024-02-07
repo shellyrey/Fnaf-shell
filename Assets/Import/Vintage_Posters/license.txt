@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vintage Posters
+* source:	https://sketchfab.com/3d-models/vintage-posters-b880a587488c4c6c8c57153305ba0cb8
+* author:	marielos.morones (https://sketchfab.com/marielos.morones)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vintage Posters" (https://sketchfab.com/3d-models/vintage-posters-b880a587488c4c6c8c57153305ba0cb8) by marielos.morones (https://sketchfab.com/marielos.morones) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

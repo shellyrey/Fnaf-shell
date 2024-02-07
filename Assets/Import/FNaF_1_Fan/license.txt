@@ -1,0 +1,11 @@
+Model Information:
+* title:	FNaF 1 Fan
+* source:	https://sketchfab.com/3d-models/fnaf-1-fan-f8d2af8d4b2848c4bb1db77920197110
+* author:	Glitch5970 (https://sketchfab.com/Glitch5970)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FNaF 1 Fan" (https://sketchfab.com/3d-models/fnaf-1-fan-f8d2af8d4b2848c4bb1db77920197110) by Glitch5970 (https://sketchfab.com/Glitch5970) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

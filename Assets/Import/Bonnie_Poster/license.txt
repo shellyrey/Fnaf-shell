@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bonnie Poster
+* source:	https://sketchfab.com/3d-models/bonnie-poster-db8e4103f72d418caa35307f8c5887d2
+* author:	naviogutierrezdavid (https://sketchfab.com/naviogutierrezdavid)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bonnie Poster" (https://sketchfab.com/3d-models/bonnie-poster-db8e4103f72d418caa35307f8c5887d2) by naviogutierrezdavid (https://sketchfab.com/naviogutierrezdavid) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

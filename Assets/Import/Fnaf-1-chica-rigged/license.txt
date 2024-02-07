@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fnaf-1-chica-rigged
+* source:	https://sketchfab.com/3d-models/fnaf-1-chica-rigged-aff6ce1f1b8e4e62836f0a7090a62eeb
+* author:	maguro gyuutann (https://sketchfab.com/simotyan.yutaka)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fnaf-1-chica-rigged" (https://sketchfab.com/3d-models/fnaf-1-chica-rigged-aff6ce1f1b8e4e62836f0a7090a62eeb) by maguro gyuutann (https://sketchfab.com/simotyan.yutaka) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

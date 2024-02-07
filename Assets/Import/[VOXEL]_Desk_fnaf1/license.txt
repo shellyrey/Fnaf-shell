@@ -1,0 +1,11 @@
+Model Information:
+* title:	[VOXEL] Desk_fnaf1
+* source:	https://sketchfab.com/3d-models/voxel-desk-fnaf1-5184752cf6e34e1da79555843253a5ad
+* author:	MACHETEMAN72 (https://sketchfab.com/MACHETEMAN72)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[VOXEL] Desk_fnaf1" (https://sketchfab.com/3d-models/voxel-desk-fnaf1-5184752cf6e34e1da79555843253a5ad) by MACHETEMAN72 (https://sketchfab.com/MACHETEMAN72) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
