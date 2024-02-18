@@ -1,0 +1,11 @@
+Model Information:
+* title:	Warehouse shelf
+* source:	https://sketchfab.com/3d-models/warehouse-shelf-75782736a3f14e539aec954f8e8de43a
+* author:	kai9987kai (https://sketchfab.com/kai9987kai)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Warehouse shelf" (https://sketchfab.com/3d-models/warehouse-shelf-75782736a3f14e539aec954f8e8de43a) by kai9987kai (https://sketchfab.com/kai9987kai) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

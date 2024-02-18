@@ -1,0 +1,11 @@
+Model Information:
+* title:	FNaF 1 Table
+* source:	https://sketchfab.com/3d-models/fnaf-1-table-a4fa185c853244d493ac863e9133c06b
+* author:	kurinov8sergey (https://sketchfab.com/kurinov8sergey)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FNaF 1 Table" (https://sketchfab.com/3d-models/fnaf-1-table-a4fa185c853244d493ac863e9133c06b) by kurinov8sergey (https://sketchfab.com/kurinov8sergey) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

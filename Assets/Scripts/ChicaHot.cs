@@ -48,11 +48,27 @@ public class ChicaHot : MonoBehaviour
     public bool path1 = false;
     public bool path2 = false;
     private bool pathsChosen = false;
+    public bool isMoving = false;
+    
+
+    
+
+    
+
+    public GameObject Static1;
+    public GameObject Static2;
+    public GameObject Static3;
+    public GameObject Static4;
+    public GameObject Static5;
+    public GameObject Static6;
+
+    
 
     // Update is called once per frame
     void Update()
     {
         chicaMove += 0.1f;
+
         
 
         //choosing what path
@@ -74,6 +90,35 @@ public class ChicaHot : MonoBehaviour
 
             pathsChosen = true;
         }
+
+        {
+           
+
+            // Check if yourBool is true
+            if (isMoving)
+            {
+                // Activate the object
+                Static1.SetActive(true);
+                Static2.SetActive(true);
+                Static3.SetActive(true);
+                Static4.SetActive(true);
+                Static5.SetActive(true);
+                Static6.SetActive(true);
+            }
+            
+            {
+                // Deactivate the object
+                Static1.SetActive(false);
+                Static2.SetActive(false);
+                Static3.SetActive(false);
+                Static4.SetActive(false);
+                Static5.SetActive(false);
+                Static6.SetActive(false);
+            }
+        }
+
+         
+
 
         // path 1
         if (chicaPosition == 0 && chicaMove >= 100 && path1)
@@ -101,6 +146,12 @@ public class ChicaHot : MonoBehaviour
                 chicaFive = false;
                 chicaSix = false;
                 chicaSeven = false;
+               
+
+                StartCoroutine(ChicaMoving());
+
+                
+
             }
         }
 
@@ -130,6 +181,9 @@ public class ChicaHot : MonoBehaviour
                 chicaFive = false;
                 chicaSix = true;
                 chicaSeven = false;
+               
+
+                StartCoroutine(ChicaMoving());
             }
         }
 
@@ -160,6 +214,8 @@ public class ChicaHot : MonoBehaviour
                 chicaFive = false;
                 chicaSix = false;
                 chicaSeven = true;
+                
+                StartCoroutine(ChicaMoving());
             }
         }
 
@@ -190,6 +246,9 @@ public class ChicaHot : MonoBehaviour
                 chicaFive = false;
                 chicaSix = false;
                 chicaSeven = false;
+               
+
+                StartCoroutine(ChicaMoving());
             }
         }
 
@@ -219,6 +278,9 @@ public class ChicaHot : MonoBehaviour
                 chicaFive = false;
                 chicaSix = false;
                 chicaSeven = false;
+                
+
+                StartCoroutine(ChicaMoving());
             }
         }
 
@@ -249,6 +311,9 @@ public class ChicaHot : MonoBehaviour
                 chicaFive = false;
                 chicaSix = false;
                 chicaSeven = false;
+             
+
+                StartCoroutine(ChicaMoving());
             }
         }
 
@@ -277,6 +342,9 @@ public class ChicaHot : MonoBehaviour
                 chicaFive = false;
                 chicaSix = false;
                 chicaSeven = false;
+                
+
+                StartCoroutine(ChicaMoving());
             }
         }
 
@@ -303,6 +371,9 @@ public class ChicaHot : MonoBehaviour
                 chicaFive = true;
                 chicaSix = false;
                 chicaSeven = false;
+                
+
+                StartCoroutine(ChicaMoving());
             }
         }
 
@@ -358,9 +429,19 @@ public class ChicaHot : MonoBehaviour
         yield return new WaitForSeconds(delay);
         ResetChicas();
     }
+    private IEnumerator ChicaMoving()
+    {
+        isMoving = true; // Set the bool to true when the timer starts
+
+        yield return new WaitForSeconds(1f); // Wait for 2 seconds
+
+        isMoving = false; // Set the bool to false after 2 seconds
+    }
 
     private void ResetChicas()
     {
+
+        StartCoroutine(ChicaMoving());
         chica1.SetActive(false);
         chica2.SetActive(false);
         chica3.SetActive(false);
@@ -371,6 +452,8 @@ public class ChicaHot : MonoBehaviour
         chicaMove = 0f;
         chicaPosition = 0;
         pressCount = 0;
+
+
 
         
     }

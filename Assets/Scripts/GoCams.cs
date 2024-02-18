@@ -36,7 +36,7 @@ public class GoCams: MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 
         // Wait for 0.15 seconds
         yield return new WaitForSeconds(0.30f);
-        mainCam.SetActive(false);
+        mainCam.SetActive(true);
         arcadeCam.SetActive(true);
         button.SetActive(false);
         button2.SetActive(true);

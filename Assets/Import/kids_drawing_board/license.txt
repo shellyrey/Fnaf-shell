@@ -1,0 +1,11 @@
+Model Information:
+* title:	kids drawing board
+* source:	https://sketchfab.com/3d-models/kids-drawing-board-2d1a1cde4e4448d2811661428e1d21c8
+* author:	Marjan Libert (https://sketchfab.com/mlibert)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "kids drawing board" (https://sketchfab.com/3d-models/kids-drawing-board-2d1a1cde4e4448d2811661428e1d21c8) by Marjan Libert (https://sketchfab.com/mlibert) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Withered_chica_fnaf
+* source:	https://sketchfab.com/3d-models/withered-chica-fnaf-c07f0ed5a6eb46e7bde05e46daf3114c
+* author:	ballora (https://sketchfab.com/jamie.t.wise)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Withered_chica_fnaf" (https://sketchfab.com/3d-models/withered-chica-fnaf-c07f0ed5a6eb46e7bde05e46daf3114c) by ballora (https://sketchfab.com/jamie.t.wise) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

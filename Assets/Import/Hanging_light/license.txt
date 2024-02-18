@@ -1,0 +1,8 @@
+Model Information:
+* title:	Hanging light
+* source:	https://sketchfab.com/3d-models/hanging-light-6ab19eccc4e54e29afdbe8d1765906c6
+* author:	Lucy Weller (https://sketchfab.com/LWGAV)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

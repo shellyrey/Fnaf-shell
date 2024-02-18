@@ -1,0 +1,11 @@
+Model Information:
+* title:	Special Prize Box
+* source:	https://sketchfab.com/3d-models/special-prize-box-24bdaf64b7114466bf2975ce0e66f7d3
+* author:	UltraFNaFFan (https://sketchfab.com/UltraFNaFFan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Special Prize Box" (https://sketchfab.com/3d-models/special-prize-box-24bdaf64b7114466bf2975ce0e66f7d3) by UltraFNaFFan (https://sketchfab.com/UltraFNaFFan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
